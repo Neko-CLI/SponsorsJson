@@ -1,1 +1,57 @@
-[{"name":"CodeRabbit","logo":"https://i.imgur.com/Z5zROSD.png","link":"https://www.coderabbit.ai/"},{"name":"DBD Team","logo":"https://i.imgur.com/ki2Qpld.png","link":"https://bit.dev/"},{"name":"Sanity","logo":"https://i.imgur.com/7cHxAb6.png","link":"https://www.sanity.io/"},{"name":"VITE","logo":"https://i.imgur.com/5EgKxHi.png","link":"https://vite.dev/"},{"name":"BIT.DEV","logo":"https://i.imgur.com/p7np28O.png","link":"https://bit.dev/"},{"name":"Discord","logo":"https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0b5061df29d55a92d945_full_logo_blurple_RGB.svg","link":"https://discord.com/"},{"name":"Intel","logo":"https://www.intel.com/content/dam/logos/intel-header-logo.svg","link":"https://intel.com/"},{"name":"Evercraft","logo":"https://evercraft.it/assets/logo_slim-70b912dc.png","link":"https://evercraft.it/"},{"name":"FullStack Italia","logo":"https://imgur.com/R03hly6.png","link":"https://t.me/fullstack"},{"name":"Evos Hosting","logo":"https://billing.evoshosting.com/templates/lagom2/assets/img/logo/logo_big_inverse.344460724.png","link":"https://evoshosting.com/"},{"name":"Unix Development","logo":"https://i.imgur.com/hYmzuDE.png","link":"https://discord.unixdevelopment.it"},{"name":"test","logo":"https://test.png","link":"https://test.com"}]
+[
+    {
+        "name": "CodeRabbit",
+        "logo": "https://i.imgur.com/Z5zROSD.png",
+        "link": "https://www.coderabbit.ai/"
+    },
+    {
+        "name": "DBD Team",
+        "logo": "https://i.imgur.com/ki2Qpld.png",
+        "link": "https://bit.dev/"
+    },
+    {
+        "name": "Sanity",
+        "logo": "https://i.imgur.com/7cHxAb6.png",
+        "link": "https://www.sanity.io/"
+    },
+    {
+        "name": "VITE",
+        "logo": "https://i.imgur.com/5EgKxHi.png",
+        "link": "https://vite.dev/"
+    },
+    {
+        "name": "BIT.DEV",
+        "logo": "https://i.imgur.com/p7np28O.png",
+        "link": "https://bit.dev/"
+    },
+    {
+        "name": "Discord",
+        "logo": "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0b5061df29d55a92d945_full_logo_blurple_RGB.svg",
+        "link": "https://discord.com/"
+    },
+    {
+        "name": "Intel",
+        "logo": "https://www.intel.com/content/dam/logos/intel-header-logo.svg",
+        "link": "https://intel.com/"
+    },
+    {
+        "name": "Evercraft",
+        "logo": "https://evercraft.it/assets/logo_slim-70b912dc.png",
+        "link": "https://evercraft.it/"
+    },
+    {
+        "name": "FullStack Italia",
+        "logo": "https://imgur.com/R03hly6.png",
+        "link": "https://t.me/fullstack"
+    },
+    {
+        "name": "Evos Hosting",
+        "logo": "https://billing.evoshosting.com/templates/lagom2/assets/img/logo/logo_big_inverse.344460724.png",
+        "link": "https://evoshosting.com/"
+    },
+    {
+        "name": "Unix Development",
+        "logo": "https://i.imgur.com/hYmzuDE.png",
+        "link": "https://discord.unixdevelopment.it"
+    }
+]
