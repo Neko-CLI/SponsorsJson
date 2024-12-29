@@ -14,5 +14,13 @@
         "color": "23aae1",
         "iconOnly": false,
         "iconSize": 100
+    },
+    {
+        "name": "Sanity",
+        "logo": "https://i.imgur.com/7cHxAb6.png",
+        "link": "https://www.sanity.io/",
+        "color": "ef4939",
+        "iconOnly": false,
+        "iconSize": 100
     }
 ]
