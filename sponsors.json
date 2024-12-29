@@ -22,5 +22,13 @@
         "color": "ef4939",
         "iconOnly": true,
         "iconSize": 100
+    },
+    {
+        "name": "VITE",
+        "logo": "https://i.imgur.com/5EgKxHi.png",
+        "link": "https://vite.dev/",
+        "color": "ffcb23",
+        "iconOnly": false,
+        "iconSize": 100
     }
 ]
