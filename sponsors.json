@@ -62,5 +62,13 @@
         "color": "00edff",
         "iconOnly": true,
         "iconSize": 100
+    },
+    {
+        "name": "FullStack Italia",
+        "logo": "https://imgur.com/R03hly6.png",
+        "link": "https://t.me/fullstack",
+        "color": "ffffff",
+        "iconOnly": false,
+        "iconSize": 100
     }
 ]
