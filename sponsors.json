@@ -30,5 +30,13 @@
         "color": "ffcb23",
         "iconOnly": false,
         "iconSize": 100
+    },
+    {
+        "name": "BIT.DEV",
+        "logo": "https://i.imgur.com/p7np28O.png",
+        "link": "https://bit.dev/",
+        "color": "7f38ff",
+        "iconOnly": false,
+        "iconSize": 100
     }
 ]
