@@ -4,7 +4,7 @@
         "logo": "https://i.imgur.com/Z5zROSD.png",
         "link": "https://www.coderabbit.ai/",
         "color": "ff6f2e",
-        "iconOnly": false,
+        "iconOnly": true,
         "iconSize": null
     },
     {
@@ -76,7 +76,7 @@
         "logo": "https://i.imgur.com/koIBBEZ.png",
         "link": "https://deluxhost.net/",
         "color": "8c32ff",
-        "iconOnly": false,
+        "iconOnly": true,
         "iconSize": null
     },
     {
