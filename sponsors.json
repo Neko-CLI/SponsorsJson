@@ -54,5 +54,13 @@
         "color": "00c7fd",
         "iconOnly": true,
         "iconSize": 100
+    },
+    {
+        "name": "Evercraft",
+        "logo": "https://evercraft.it/assets/logo_slim-70b912dc.png",
+        "link": "https://evercraft.it/",
+        "color": "00edff",
+        "iconOnly": true,
+        "iconSize": 100
     }
 ]
