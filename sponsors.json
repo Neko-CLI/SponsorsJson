@@ -86,5 +86,13 @@
         "color": "7d00c6",
         "iconOnly": false,
         "iconSize": 100
+    },
+    {
+        "name": "test",
+        "logo": "ewrewrwe",
+        "link": "werwe",
+        "color": "wrewr",
+        "iconOnly": false,
+        "iconSize": null
     }
 ]
