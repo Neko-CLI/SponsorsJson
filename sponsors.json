@@ -1,2 +1,10 @@
 [
+    {
+        "name": "CodeRabbit",
+        "logo": "https://i.imgur.com/Z5zROSD.png",
+        "link": "https://www.coderabbit.ai/",
+        "color": "ff6f2e",
+        "iconOnly": false,
+        "iconSize": 100
+    }
 ]
