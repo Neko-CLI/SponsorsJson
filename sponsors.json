@@ -6,5 +6,13 @@
         "color": "ff6f2e",
         "iconOnly": false,
         "iconSize": 100
+    },
+    {
+        "name": "DBD Team",
+        "logo": "https://i.imgur.com/ki2Qpld.png",
+        "link": "https://bit.dev/",
+        "color": "23aae1",
+        "iconOnly": false,
+        "iconSize": 100
     }
 ]
