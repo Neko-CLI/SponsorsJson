@@ -5,7 +5,7 @@
         "link": "https://www.coderabbit.ai/",
         "color": "ff6f2e",
         "iconOnly": false,
-        "iconSize": 100
+        "iconSize": null
     },
     {
         "name": "DBD Team",
@@ -13,7 +13,7 @@
         "link": "https://bit.dev/",
         "color": "23aae1",
         "iconOnly": false,
-        "iconSize": 100
+        "iconSize": null
     },
     {
         "name": "Sanity",
@@ -21,7 +21,7 @@
         "link": "https://www.sanity.io/",
         "color": "ef4939",
         "iconOnly": true,
-        "iconSize": 100
+        "iconSize": null
     },
     {
         "name": "VITE",
@@ -29,7 +29,7 @@
         "link": "https://vite.dev/",
         "color": "ffcb23",
         "iconOnly": false,
-        "iconSize": 100
+        "iconSize": null
     },
     {
         "name": "BIT.DEV",
@@ -37,7 +37,7 @@
         "link": "https://bit.dev/",
         "color": "7f38ff",
         "iconOnly": false,
-        "iconSize": 100
+        "iconSize": null
     },
     {
         "name": "Discord",
@@ -45,7 +45,7 @@
         "link": "https://discord.com/",
         "color": "5865f2",
         "iconOnly": true,
-        "iconSize": 100
+        "iconSize": null
     },
     {
         "name": "Intel",
@@ -53,7 +53,7 @@
         "link": "https://intel.com/",
         "color": "00c7fd",
         "iconOnly": true,
-        "iconSize": 100
+        "iconSize": 75
     },
     {
         "name": "Evercraft",
@@ -69,7 +69,7 @@
         "link": "https://t.me/fullstack",
         "color": "ffffff",
         "iconOnly": false,
-        "iconSize": 100
+        "iconSize": null
     },
     {
         "name": "DeluxHost",
@@ -77,7 +77,7 @@
         "link": "https://deluxhost.net/",
         "color": "8c32ff",
         "iconOnly": false,
-        "iconSize": 100
+        "iconSize": null
     },
     {
         "name": "Unix Development",
