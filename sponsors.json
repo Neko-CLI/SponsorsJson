@@ -70,5 +70,13 @@
         "color": "ffffff",
         "iconOnly": false,
         "iconSize": 100
+    },
+    {
+        "name": "DeluxHost",
+        "logo": "https://i.imgur.com/koIBBEZ.png",
+        "link": "https://deluxhost.net/",
+        "color": "8c32ff",
+        "iconOnly": false,
+        "iconSize": 100
     }
 ]
