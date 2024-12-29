@@ -46,5 +46,13 @@
         "color": "5865f2",
         "iconOnly": true,
         "iconSize": 100
+    },
+    {
+        "name": "Intel",
+        "logo": "https://www.intel.com/content/dam/logos/intel-header-logo.svg",
+        "link": "https://intel.com/",
+        "color": "00c7fd",
+        "iconOnly": true,
+        "iconSize": 100
     }
 ]
