@@ -38,5 +38,13 @@
         "color": "7f38ff",
         "iconOnly": false,
         "iconSize": 100
+    },
+    {
+        "name": "Discord",
+        "logo": "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0b5061df29d55a92d945_full_logo_blurple_RGB.svg",
+        "link": "https://discord.com/",
+        "color": "5865f2",
+        "iconOnly": true,
+        "iconSize": 100
     }
 ]
