@@ -86,5 +86,13 @@
         "color": "7d00c6",
         "iconOnly": false,
         "iconSize": 100
+    },
+    {
+        "name": "RewardADs",
+        "logo": "https://i.imgur.com/5zOPC1R.png",
+        "link": "https://rewardads.it/",
+        "color": "FEB503",
+        "iconOnly": true,
+        "iconSize": null
     }
 ]
