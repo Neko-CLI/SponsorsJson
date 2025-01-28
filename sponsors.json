@@ -56,14 +56,6 @@
         "iconSize": 75
     },
     {
-        "name": "Evercraft",
-        "logo": "https://i.imgur.com/6Fm4Apv.png",
-        "link": "https://evercraft.it/",
-        "color": "00edff",
-        "iconOnly": true,
-        "iconSize": 100
-    },
-    {
         "name": "FullStack Italia",
         "logo": "https://imgur.com/R03hly6.png",
         "link": "https://t.me/fullstack",
@@ -78,14 +70,6 @@
         "color": "8c32ff",
         "iconOnly": true,
         "iconSize": null
-    },
-    {
-        "name": "Unix Development",
-        "logo": "https://i.imgur.com/hYmzuDE.png",
-        "link": "https://discord.unixdevelopment.it/",
-        "color": "7d00c6",
-        "iconOnly": false,
-        "iconSize": 100
     },
     {
         "name": "RewardADs",
