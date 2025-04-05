@@ -73,10 +73,18 @@
     },
     {
         "name": "RewardADs",
-        "logo": "https://i.imgur.com/5zOPC1R.png",
+        "logo": "https://rewardads.it/data/avatars/m/0/1.jpg?1738785126",
         "link": "https://rewardads.it/",
         "color": "FEB503",
         "iconOnly": true,
+        "iconSize": 50
+    },
+    {
+        "name": "Mochii.AI",
+        "logo": "https://i.imgur.com/6OyrMQE.png",
+        "link": "https://www.mochii.ai/",
+        "color": "8543C0",
+        "iconOnly": false,
         "iconSize": 50
     }
 ]
