@@ -86,13 +86,5 @@
         "color": "8543C0",
         "iconOnly": false,
         "iconSize": 50
-    },
-    {
-        "name": "PurpleMc",
-        "logo": "https://i.imgur.com/eKSopm7.png",
-        "link": "https://discord.gg/2njYnPzKQ4",
-        "color": "B29BD6",
-        "iconOnly": false,
-        "iconSize": 50
     }
 ]
