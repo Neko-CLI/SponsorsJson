@@ -88,43 +88,35 @@
         "iconSize": 50
     },
     {
-        "name": "GitHub",
-        "logo": "https://i.imgur.com/ULZ2oU4.png",
-        "link": "https://github.com/",
-        "color": "181717",
-        "iconOnly": true,
-        "iconSize": null
-    },
-    {
         "name": "Stack Overflow",
         "logo": "https://i.ibb.co/pBCXtjBp/image.png",
         "link": "https://stackoverflow.com/",
         "color": "FE7A16",
         "iconOnly": false,
-        "iconSize": null
+        "iconSize": 50
     },
     {
         "name": "DigitalOcean",
         "logo": "https://i.ibb.co/XfsFNHmv/image.png",
         "link": "https://www.digitalocean.com/",
         "color": "0080FF",
-        "iconOnly": true,
-        "iconSize": null
+        "iconOnly": false,
+        "iconSize": 50
     },
     {
         "name": "Heroku",
         "logo": "https://i.ibb.co/dFtb41B/image.png",
         "link": "https://www.heroku.com/",
         "color": "430098",
-        "iconOnly": true,
-        "iconSize": null
+        "iconOnly": false,
+        "iconSize": 50
     },
     {
         "name": "Netlify",
         "logo": "https://i.ibb.co/GQD9gKXJ/image.png",
         "link": "https://www.netlify.com/",
         "color": "00C7B7",
-        "iconOnly": true,
-        "iconSize": null
+        "iconOnly": false,
+        "iconSize": 50
     }
 ]
