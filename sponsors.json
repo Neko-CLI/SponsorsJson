@@ -88,35 +88,11 @@
         "iconSize": 50
     },
     {
-        "name": "Stack Overflow",
-        "logo": "https://i.ibb.co/pBCXtjBp/image.png",
-        "link": "https://stackoverflow.com/",
-        "color": "FE7A16",
-        "iconOnly": false,
-        "iconSize": 20
-    },
-    {
         "name": "DigitalOcean",
         "logo": "https://i.ibb.co/XfsFNHmv/image.png",
         "link": "https://www.digitalocean.com/",
         "color": "0080FF",
         "iconOnly": false,
-        "iconSize": 20
-    },
-    {
-        "name": "Heroku",
-        "logo": "https://i.ibb.co/dFtb41B/image.png",
-        "link": "https://www.heroku.com/",
-        "color": "430098",
-        "iconOnly": false,
-        "iconSize": 20
-    },
-    {
-        "name": "Netlify",
-        "logo": "https://i.ibb.co/GQD9gKXJ/image.png",
-        "link": "https://www.netlify.com/",
-        "color": "00C7B7",
-        "iconOnly": false,
-        "iconSize": 20
+        "iconSize": 50
     }
 ]
