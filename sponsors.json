@@ -93,7 +93,7 @@
         "link": "https://stackoverflow.com/",
         "color": "FE7A16",
         "iconOnly": false,
-        "iconSize": 50
+        "iconSize": 20
     },
     {
         "name": "DigitalOcean",
@@ -101,7 +101,7 @@
         "link": "https://www.digitalocean.com/",
         "color": "0080FF",
         "iconOnly": false,
-        "iconSize": 50
+        "iconSize": 20
     },
     {
         "name": "Heroku",
@@ -109,7 +109,7 @@
         "link": "https://www.heroku.com/",
         "color": "430098",
         "iconOnly": false,
-        "iconSize": 50
+        "iconSize": 20
     },
     {
         "name": "Netlify",
@@ -117,6 +117,6 @@
         "link": "https://www.netlify.com/",
         "color": "00C7B7",
         "iconOnly": false,
-        "iconSize": 50
+        "iconSize": 20
     }
 ]
