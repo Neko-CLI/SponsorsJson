@@ -94,5 +94,13 @@
         "color": "0080FF",
         "iconOnly": false,
         "iconSize": 50
+    },
+    {
+        "name": "NordVPN",
+        "logo": "https://i.ibb.co/V08M6sxn/image.png",
+        "link": "https://nordvpn.com/",
+        "color": "FFFFFF",
+        "iconOnly": false,
+        "iconSize": 50
     }
 ]
