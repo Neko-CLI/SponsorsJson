@@ -97,10 +97,10 @@
     },
     {
         "name": "NordVPN",
-        "logo": "https://i.ibb.co/V08M6sxn/image.png",
+        "logo": "https://i.ibb.co/nNdgR41h/image.png",
         "link": "https://nordvpn.com/",
         "color": "FFFFFF",
-        "iconOnly": true,
+        "iconOnly": false,
         "iconSize": 100
     }
 ]
