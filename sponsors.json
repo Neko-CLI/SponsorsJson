@@ -102,5 +102,13 @@
         "color": "FFFFFF",
         "iconOnly": true,
         "iconSize": 200
+    },
+    {
+        "name": "Incogni",
+        "logo": "https://i.imgur.com/0mykGaH.png",
+        "link": "https://incogni.com",
+        "color": "000000",
+        "iconOnly": true,
+        "iconSize": 200
     }
 ]
