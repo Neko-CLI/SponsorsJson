@@ -110,5 +110,13 @@
         "color": "000000",
         "iconOnly": true,
         "iconSize": 100
+    },
+    {
+        "name": "GbdHosting",
+        "logo": "https://i.imgur.com/98BRiyD.png",
+        "link": "https://gbd-hosting.com/",
+        "color": "2980BF",
+        "iconOnly": false,
+        "iconSize": 50
     }
 ]
