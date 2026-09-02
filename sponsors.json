@@ -72,14 +72,6 @@
         "iconSize": null
     },
     {
-        "name": "RewardADs",
-        "logo": "https://rewardads.it/data/avatars/m/0/1.jpg?1738785126",
-        "link": "https://rewardads.it/",
-        "color": "FEB503",
-        "iconOnly": false,
-        "iconSize": 50
-    },
-    {
         "name": "Mochii.AI",
         "logo": "https://i.imgur.com/6OyrMQE.png",
         "link": "https://www.mochii.ai/",
@@ -110,13 +102,5 @@
         "color": "000000",
         "iconOnly": true,
         "iconSize": 100
-    },
-    {
-        "name": "GbdHosting",
-        "logo": "https://i.imgur.com/98BRiyD.png",
-        "link": "https://gbd-hosting.com/",
-        "color": "2980BF",
-        "iconOnly": false,
-        "iconSize": 50
     }
 ]
